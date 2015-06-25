@@ -1,0 +1,5 @@
+sender: senderemail@domain.com
+recipients:
+    - recipient1@domain.com
+    - recipient2@domain.com
+
